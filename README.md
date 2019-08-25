@@ -1,7 +1,10 @@
 # byte-code
 
 ## What The Program Does?
-Generates byte code for an expression performing addition or multiplication for three terms.
+Generates byte code for expressions performing addition or multiplication for three terms from\
+a .dat file.
+
+Note: Exprv simulates a stack using the ArrayDeque library in java.
 
 ## Author Info
 - Author: Isaac Hartzell
